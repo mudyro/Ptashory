@@ -1,0 +1,66 @@
+com.DefaultCompany.Ptashory.BuildConfig
+com.DefaultCompany.Ptashory.R$id
+com.DefaultCompany.Ptashory.R$mipmap
+com.DefaultCompany.Ptashory.R$string
+com.DefaultCompany.Ptashory.R$style
+com.DefaultCompany.Ptashory.R
+com.samsung.android.gamesdk.GameSDKManager$1
+com.samsung.android.gamesdk.GameSDKManager$Listener:
+    public abstract void onHighTempWarning(int)
+    public abstract void onRefreshRateChanged()
+    public abstract void onReleasedByTimeout()
+    public abstract void onReleasedCpuBoost()
+    public abstract void onReleasedGpuBoost()
+com.samsung.android.gamesdk.GameSDKManager:
+    private static final int DEFAULT_REFRESH_RATE
+    private static final float GameSDK2_0
+    private static final float GameSDK3_0
+    private static final float GameSDK3_1
+    private static final float GameSDK3_2
+    private static final float GameSDK3_3
+    private static final float GameSDK3_4
+    private static final double INVALID_DOUBLE
+    private static final int INVALID_INT
+    private static final java.lang.String TAG
+    static synthetic com.samsung.android.gamesdk.GameSDKManager$Listener access$000(com.samsung.android.gamesdk.GameSDKManager)
+    public void finalize(java.lang.String)
+    public int getCPULevelMax()
+    public int getClusterInfo()
+    public int getCpuJTLevel()
+    public int getCurrentRefreshRate()
+    public int getGPULevelMax()
+    public double getGpuFrameTime()
+    public int getGpuJTLevel()
+    private double getGpuUsage()
+    public double getHighPrecisionSkinTempLevel()
+    public int getSkinTempLevel()
+    public int[] getSupportedRefreshRates()
+    public int getTempLevel()
+    public boolean initialize()
+    public boolean initialize(java.lang.String)
+    public static boolean isAvailable()
+    public boolean isGameSDKVariableRefreshRateSupported()
+    public void resetRefreshRate()
+    public boolean setDisableTMLevel(int)
+    public int setFreqLevels(int,int)
+    public boolean setLevelWithScene(java.lang.String,int,int)
+    public boolean setListener(com.samsung.android.gamesdk.GameSDKManager$Listener)
+    public void setRefreshRate(int)
+com.unity.androidnotifications.UnityNotificationBackgroundThread:
+    private static final int TASKS_FOR_HOUSEKEEPING
+com.unity.androidnotifications.UnityNotificationManager:
+    static final java.lang.String NOTIFICATION_CHANNELS_SHARED_PREFS
+    static final java.lang.String NOTIFICATION_CHANNELS_SHARED_PREFS_KEY
+    static final java.lang.String NOTIFICATION_IDS_SHARED_PREFS
+    static final java.lang.String NOTIFICATION_IDS_SHARED_PREFS_KEY
+    private static final int PERMISSION_STATUS_ALLOWED
+    private static final int PERMISSION_STATUS_DENIED
+    private static final int PERMISSION_STATUS_NOTIFICATIONS_BLOCKED_FOR_APP
+    static final java.lang.String TAG_UNITY
+com.unity.androidnotifications.UnityNotificationUtilities:
+    private static final int INTENT_SERIALIZATION_VERSION
+    private static final int NOTIFICATION_SERIALIZATION_VERSION
+    static final java.lang.String SAVED_NOTIFICATION_FALLBACK_KEY
+    static final java.lang.String SAVED_NOTIFICATION_PRIMARY_KEY
+com.unity3d.JavaPluginPreloader:
+    public void <init>()

@@ -1,0 +1,1131 @@
+com.unity3d.player.a
+com.unity3d.player.Q
+com.unity3d.player.UnityPlayer$r
+com.unity3d.player.UnityPlayer$C$a
+com.unity3d.player.UnityPlayer$A
+com.unity3d.player.I
+com.google.androidgamesdk.SwappyDisplayManager
+com.unity3d.player.ReflectionHelper$b
+com.unity3d.player.UnityPlayerActivity
+com.unity3d.player.IPermissionRequestCallbacks
+com.unity3d.player.UnityPlayer$u
+com.unity3d.player.ReflectionHelper
+com.unity3d.player.UnityPlayer$g
+com.unity3d.player.AudioVolumeHandler
+com.unity3d.player.J
+com.unity3d.player.UnityCoreAssetPacksStatusCallbacks
+com.unity3d.player.UnityPlayer$l
+com.unity3d.player.S
+com.unity.androidnotifications.NotificationCallback
+com.unity3d.player.P
+com.unity3d.player.UnityPlayer$a
+com.unity3d.player.Camera2Wrapper
+com.unity3d.player.IAssetPackManagerStatusQueryCallback
+com.unity3d.player.UnityPlayer$D
+com.google.androidgamesdk.ChoreographerCallback
+com.unity3d.player.IUnityPlayerLifecycleEvents
+com.unity3d.player.j
+com.unity3d.player.g
+com.unity3d.player.PlatformSupport
+com.unity3d.player.IAssetPackManagerDownloadStatusCallback
+com.unity3d.player.f
+com.unity3d.player.UnityPermissions$ModalWaitForPermissionResponse
+com.unity.androidnotifications.UnityNotificationManager
+org.fmod.FMODAudioDevice
+com.unity3d.player.UnityPlayer$a$a
+org.fmod.a
+com.unity3d.player.R$style
+com.unity3d.player.ReflectionHelper$a
+com.unity3d.player.UnityPlayer$x
+com.unity3d.player.R$string
+com.unity3d.player.UnityPlayer$C
+com.unity3d.player.R
+com.unity3d.player.BuildConfig
+com.unity3d.player.c
+com.unity3d.player.UnityPlayer$c
+com.unity3d.player.b
+com.unity3d.player.D
+com.unity3d.player.NetworkConnectivityNougat
+com.unity3d.player.e
+com.unity3d.player.UnityPlayer$n
+com.unity3d.player.o
+com.unity3d.player.UnityPlayer$f
+com.unity3d.player.q
+bitter.jnibridge.JNIBridge
+com.unity3d.player.G
+com.unity3d.player.UnityPlayer$k
+com.unity3d.player.V$a
+com.unity3d.player.N
+com.unity3d.player.m
+com.unity3d.player.D$a
+com.unity3d.player.C
+com.unity3d.player.PlayAssetDeliveryUnityWrapper
+com.unity3d.player.UnityPlayer$q
+com.unity3d.player.x
+com.unity3d.player.HFPStatus
+com.unity3d.player.R$id
+com.unity3d.player.v
+com.unity3d.player.d
+com.unity3d.player.UnityPlayer$o
+com.unity3d.player.UnityPlayer
+com.unity3d.player.n
+com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver
+com.unity3d.player.UnityPlayer$s
+com.unity3d.player.l
+com.unity3d.player.UnityPlayer$z
+com.unity3d.player.z
+com.unity3d.JavaPluginPreloader
+com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback
+com.unity3d.player.y
+com.unity3d.player.UnityPlayer$p
+com.unity3d.player.O
+com.unity3d.player.H
+com.unity3d.player.s
+com.unity3d.player.B
+com.unity3d.player.UnityPermissions
+com.unity3d.player.A
+com.unity3d.player.M
+com.unity3d.player.E
+com.unity3d.player.UnityPlayer$d
+com.unity3d.player.U
+com.unity3d.player.p
+com.unity3d.player.t
+com.unity3d.player.UnityPlayer$b$a
+com.unity3d.player.NetworkConnectivity
+com.unity3d.player.ReflectionHelper$c
+com.unity3d.player.h
+com.unity3d.player.UnityPlayer$m
+com.unity3d.player.UnityPlayer$y
+com.unity3d.player.UnityPlayer$h
+com.unity3d.player.UnityPlayer$w
+com.unity3d.player.F
+com.unity3d.player.UnityPlayer$B
+com.unity3d.player.L
+com.unity3d.player.GoogleARCoreApi
+com.unity3d.player.V
+com.unity3d.player.NativeLoader
+com.unity3d.player.UnityPlayer$v
+com.unity3d.player.UnityPlayer$b
+com.unity3d.player.i
+com.unity3d.player.HFPStatus$1
+com.unity3d.player.NetworkConnectivityNougat$a
+com.unity3d.player.K
+com.unity3d.player.UnityPlayer$e
+com.unity3d.player.MultiWindowSupport
+com.unity3d.player.UnityPlayer$t
+com.unity3d.player.HFPStatus$a
+bitter.jnibridge.JNIBridge$a
+com.unity3d.player.k
+com.unity3d.player.T
+com.unity3d.player.ReflectionHelper$d
+com.unity3d.player.UnityPlayer$j
+com.unity3d.player.w
+com.unity3d.player.r
+com.unity3d.player.OrientationLockListener
+com.unity3d.player.UnityPlayer$i
+com.unity3d.player.u
+com.unity3d.player.a: com.unity3d.player.UnityPlayer b
+com.unity3d.player.N: boolean u
+com.unity3d.player.B: int a
+com.unity3d.player.NetworkConnectivityNougat$a: com.unity3d.player.NetworkConnectivityNougat a
+com.unity3d.player.UnityPlayer$k: com.unity3d.player.UnityPlayer a
+com.unity3d.player.s: android.graphics.Rect e
+com.unity3d.player.Q: int b
+com.unity3d.player.UnityPlayer$z: com.unity3d.player.UnityPlayer$z c
+com.unity3d.player.UnityPlayer$u: com.unity3d.player.UnityPlayer a
+com.unity3d.player.UnityPlayer: int ANR_TIMEOUT_SECONDS
+com.unity3d.player.g: com.unity3d.player.IAssetPackManagerStatusQueryCallback a
+com.unity3d.player.b: int c
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_INTENT_DATA
+com.unity3d.player.UnityPlayer: boolean mIsFullscreen
+com.unity3d.player.UnityPlayer$i: com.unity3d.player.UnityPlayer d
+com.unity3d.player.UnityPlayer$h: int d
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B d
+org.fmod.FMODAudioDevice: byte[] f
+com.unity3d.player.w: android.app.Activity a
+com.unity3d.player.UnityPlayer$b: java.lang.String b
+com.unity3d.player.UnityPlayer$g: int b
+com.unity3d.player.D: com.unity3d.player.D$a a
+com.unity3d.player.UnityPlayer: com.unity3d.player.HFPStatus m_HFPStatus
+com.unity3d.player.H: java.lang.String b
+com.unity3d.player.Camera2Wrapper: android.content.Context a
+com.unity3d.player.UnityPlayer: android.os.Handler mHandler
+org.fmod.FMODAudioDevice: java.nio.ByteBuffer e
+com.unity3d.player.r: com.unity3d.player.r b
+com.unity3d.player.HFPStatus: android.media.AudioManager d
+com.unity3d.player.s: java.util.concurrent.Semaphore D
+com.unity3d.player.j: com.unity3d.player.k a
+com.unity3d.player.m: com.unity3d.player.s a
+com.unity3d.player.M: boolean b
+com.unity3d.player.s: android.hardware.camera2.CameraCaptureSession r
+com.unity3d.player.w: com.unity3d.player.v b
+com.unity3d.player.R$string: int FreeformWindowSize_maximize
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_BIG_PICTURE
+com.unity3d.player.N: com.unity3d.player.M w
+com.unity3d.player.j: int c
+com.unity3d.player.UnityPlayer: android.app.Activity mActivity
+com.unity3d.player.i: com.unity3d.player.i d
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B a
+com.unity3d.player.U: com.unity3d.player.V a
+com.unity3d.player.UnityPlayerActivity: com.unity3d.player.UnityPlayer mUnityPlayer
+com.unity3d.player.s: android.util.Range n
+com.unity3d.player.HFPStatus: boolean c
+com.unity3d.player.UnityPlayer$C: boolean c
+com.unity3d.player.s: com.unity3d.player.a.a a
+com.unity3d.player.BuildConfig: java.lang.String LIBRARY_PACKAGE_NAME
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_SHOW_IN_FOREGROUND
+com.unity3d.player.BuildConfig: boolean DEBUG
+com.unity3d.player.Q: long f
+com.unity3d.player.s: java.lang.String[] C
+com.unity3d.player.UnityPlayer: com.unity3d.player.AudioVolumeHandler m_AudioVolumeHandler
+com.unity3d.player.UnityPlayer$o: com.unity3d.player.UnityPlayer a
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: com.unity3d.player.t a
+com.unity3d.player.C: boolean e
+com.unity3d.player.R$id: int unitySurfaceView
+com.unity3d.player.s: android.view.Surface v
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B i
+com.unity3d.player.ReflectionHelper$b: java.lang.Class a
+com.unity3d.player.UnityPlayer: int mInitialScreenOrientation
+com.unity3d.player.UnityPlayer: java.lang.String SPLASH_MODE_METADATA_NAME
+com.unity3d.player.UnityPlayer$z: com.unity3d.player.UnityPlayer$z b
+com.unity3d.player.UnityPlayer$C: boolean b
+com.unity3d.player.ReflectionHelper$b: java.lang.String c
+com.unity3d.player.c: android.os.Looper b
+com.unity3d.player.HFPStatus: android.content.Context a
+com.unity3d.player.N: int s
+com.unity3d.player.s: android.media.ImageReader o
+com.unity3d.player.N: int l
+com.unity3d.player.UnityPlayer$t: com.unity3d.player.UnityPlayer d
+com.unity3d.player.ReflectionHelper$b: int d
+com.unity3d.player.UnityPlayer: java.lang.String AUTO_REPORT_FULLY_DRAWN_ENABLE_METADATA_NAME
+com.unity3d.player.UnityPlayer$b: boolean e
+com.unity3d.player.g: int[] e
+com.unity3d.player.M: com.unity3d.player.N a
+com.unity3d.player.R$string: int FreeformWindowSize_tablet
+com.unity3d.player.s: android.hardware.camera2.CameraCaptureSession$CaptureCallback x
+com.unity3d.player.UnityPlayer$D: com.unity3d.player.UnityPlayer a
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_BIG_SUMMARY_TEXT
+com.unity3d.player.g: int[] d
+com.unity3d.player.UnityPlayer$s: com.unity3d.player.UnityPlayer a
+com.unity3d.player.y: com.unity3d.player.C a
+com.unity3d.player.ReflectionHelper$a: long c
+com.unity3d.player.ReflectionHelper$b: java.lang.reflect.Member e
+com.unity3d.player.s: android.hardware.camera2.CameraDevice b
+com.unity3d.player.ReflectionHelper: long b
+com.unity3d.player.UnityPlayer$A: com.unity3d.player.UnityPlayer a
+com.unity3d.player.v: android.graphics.Bitmap a
+com.unity3d.player.r: com.unity3d.player.r a
+com.unity3d.player.N: int y
+com.unity3d.player.UnityPermissions$ModalWaitForPermissionResponse: boolean haveResponse
+com.google.androidgamesdk.SwappyDisplayManager: long ONE_S_IN_NS
+com.unity3d.player.UnityPlayer: com.unity3d.player.J mGlView
+com.unity3d.player.UnityPlayer$b: boolean g
+com.unity3d.player.OrientationLockListener: android.content.Context b
+org.fmod.FMODAudioDevice: android.media.AudioTrack c
+com.unity3d.player.s: android.media.Image p
+com.unity3d.player.A: com.unity3d.player.C a
+com.unity3d.player.i: com.google.android.play.core.assetpacks.AssetPackManager a
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B h
+com.unity3d.player.D$a: com.unity3d.player.D$a a
+com.unity3d.player.UnityPlayer$q: com.unity3d.player.UnityPlayer b
+com.google.androidgamesdk.SwappyDisplayManager: com.google.androidgamesdk.SwappyDisplayManager$b mLooper
+com.unity3d.player.x: android.view.View a
+com.unity3d.player.B: int c
+org.fmod.a: java.nio.ByteBuffer b
+com.unity3d.player.D: int b
+com.unity3d.player.N: android.view.SurfaceHolder c
+com.unity3d.player.s: int l
+com.unity3d.player.K: boolean d
+com.unity3d.player.UnityPlayer$g: com.unity3d.player.UnityPlayer c
+com.google.androidgamesdk.ChoreographerCallback: long mCookie
+com.unity3d.player.UnityPlayer$b: boolean j
+com.unity3d.player.K: boolean e
+com.unity3d.player.R$style: int UnityThemeSelector
+com.unity3d.player.UnityPlayer$C: android.os.Handler a
+com.unity3d.player.e: com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback a
+com.unity3d.player.s: float j
+com.unity3d.player.HFPStatus: com.unity3d.player.HFPStatus$a f
+com.unity3d.player.ReflectionHelper$a: boolean e
+com.unity3d.player.c: com.unity3d.player.i c
+com.unity3d.player.UnityPlayer$h: java.lang.String c
+com.unity3d.player.K: boolean a
+com.unity3d.player.UnityPlayer: com.unity3d.player.K mState
+com.unity3d.player.P: com.unity3d.player.Q a
+com.unity3d.player.UnityPlayer$C: com.unity3d.player.UnityPlayer i
+com.unity3d.player.UnityPlayer$C$a: com.unity3d.player.UnityPlayer$C a
+com.unity3d.player.G: com.unity3d.player.F b
+org.fmod.a: boolean f
+com.unity3d.player.UnityPlayer$c: com.unity3d.player.UnityPlayer a
+com.unity3d.player.UnityPlayer: android.content.ClipboardManager m_ClipboardManager
+com.unity3d.player.g: long b
+com.unity3d.player.UnityPlayer$x: com.unity3d.player.UnityPlayer a
+com.unity3d.player.n: com.unity3d.player.s a
+bitter.jnibridge.JNIBridge$a: java.lang.reflect.Constructor c
+com.unity3d.player.UnityPlayer: com.unity3d.player.IUnityPlayerLifecycleEvents m_UnityPlayerLifecycleEvents
+com.unity3d.player.D: android.graphics.Bitmap c
+com.google.androidgamesdk.SwappyDisplayManager: java.lang.String LOG_TAG
+com.unity3d.player.N: int k
+com.unity3d.player.HFPStatus: boolean e
+com.unity3d.player.D$a: com.unity3d.player.D$a[] b
+com.unity3d.player.s: boolean m
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B f
+com.unity3d.player.UnityPlayer$r: com.unity3d.player.UnityPlayer a
+com.unity3d.player.R$style: int UnityThemeSelector_Translucent
+com.unity3d.player.N: int e
+com.unity3d.player.ReflectionHelper$c: long b
+com.unity3d.player.I: com.unity3d.player.J a
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_BIG_LARGE_ICON
+com.unity3d.player.Q: int d
+com.unity3d.player.AudioVolumeHandler: com.unity3d.player.l a
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_SMALL_ICON
+com.unity3d.player.N: com.unity3d.player.L v
+com.unity3d.player.UnityPlayer$a$a: com.unity3d.player.UnityPlayer$a a
+com.unity3d.player.N: android.media.MediaPlayer o
+com.unity3d.player.Q: int c
+com.unity3d.player.UnityPlayer$i: int b
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_LARGE_ICON
+com.unity3d.player.V: java.util.concurrent.Semaphore d
+com.unity3d.player.O: com.unity3d.player.P a
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_NOTIFICATION
+com.unity3d.player.S: com.unity3d.player.V a
+com.unity3d.player.l: android.media.AudioManager b
+com.unity3d.player.OrientationLockListener: com.unity3d.player.G a
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B b
+com.unity3d.player.s: android.graphics.SurfaceTexture u
+com.unity3d.player.UnityPlayer$b: int c
+com.google.androidgamesdk.SwappyDisplayManager: android.view.Display$Mode mCurrentMode
+com.unity3d.player.UnityPlayer$l: com.unity3d.player.UnityPlayer c
+com.unity3d.player.UnityPlayer: int RUN_STATE_CHANGED_MSG_CODE
+bitter.jnibridge.JNIBridge$a: java.lang.Object a
+com.unity3d.player.N: java.lang.String d
+com.unity3d.player.H: java.lang.Thread$UncaughtExceptionHandler a
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_ID
+com.unity3d.player.C: int c
+com.unity3d.player.UnityPlayer$h: boolean b
+com.unity3d.player.UnityPlayer$b: com.unity3d.player.UnityPlayer a
+com.unity3d.player.UnityPlayer: com.unity3d.player.NetworkConnectivity m_NetworkConnectivity
+com.unity3d.player.UnityPlayer$b: boolean f
+com.unity3d.player.UnityPlayer$b: int i
+com.unity3d.player.UnityPlayer$b: boolean d
+com.unity3d.player.NetworkConnectivityNougat: android.net.ConnectivityManager$NetworkCallback c
+com.unity3d.player.h: android.os.Looper b
+com.unity3d.player.UnityPlayer: com.unity3d.player.V mVideoPlayerProxy
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_BIG_SHOW_WHEN_COLLAPSED
+com.unity3d.player.N: boolean q
+com.unity3d.player.C: com.unity3d.player.UnityPlayer b
+com.unity3d.player.UnityPlayer$a: com.unity3d.player.UnityPlayer a
+com.unity3d.player.UnityPlayer$j: android.graphics.Rect b
+com.unity3d.player.s: int k
+com.unity3d.player.ReflectionHelper: long c
+com.unity3d.player.UnityPlayer: com.unity3d.player.UnityPlayer$y m_FakeListener
+com.unity3d.player.K: boolean c
+com.unity3d.player.D: android.graphics.Bitmap d
+com.unity3d.player.s: int h
+com.unity3d.player.UnityPlayer: int m_IsNoWindowMode
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_FIRE_TIME
+com.unity3d.player.UnityPlayer: com.unity3d.player.OrientationLockListener m_OrientationLockListener
+com.unity3d.player.UnityPlayer$b: com.unity3d.player.UnityPlayer l
+com.unity3d.player.UnityPlayer: android.view.OrientationEventListener mOrientationListener
+com.unity3d.player.UnityPlayer$t: int a
+com.unity3d.player.c: java.util.HashSet a
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_NOTIFICATION_DISMISSED
+com.unity3d.player.ReflectionHelper$a: java.lang.Runnable a
+com.unity3d.player.BuildConfig: java.lang.String BUILD_TYPE
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B e
+com.unity3d.player.UnityPlayer$p: com.unity3d.player.UnityPlayer a
+org.fmod.a: int c
+org.fmod.a: java.lang.Thread e
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_CHANNEL_ID
+com.unity3d.player.N: int x
+com.unity3d.player.HFPStatus: android.content.BroadcastReceiver b
+com.unity3d.player.N: int n
+com.unity3d.player.V: int g
+com.unity3d.player.UnityPlayer: java.lang.String SPLASH_ENABLE_METADATA_NAME
+com.google.androidgamesdk.SwappyDisplayManager: long ONE_MS_IN_NS
+com.unity3d.player.s: android.hardware.camera2.CameraDevice$StateCallback y
+com.unity3d.player.UnityPlayer: java.lang.String ARCORE_ENABLE_METADATA_NAME
+com.unity3d.player.UnityPlayer$e: int a
+com.unity3d.player.UnityPlayer$C: int g
+com.unity3d.player.ReflectionHelper$c: long a
+com.unity3d.player.j: int d
+com.unity3d.player.UnityPlayer$q: float a
+com.unity3d.player.z: com.unity3d.player.C a
+com.unity3d.player.UnityPlayer$C: com.unity3d.player.UnityPlayer$z d
+com.unity3d.player.UnityPlayer: int mNaturalOrientation
+com.unity3d.player.j: android.media.AudioManager b
+com.unity3d.player.F: com.unity3d.player.E a
+com.unity3d.player.h: com.unity3d.player.IAssetPackManagerStatusQueryCallback a
+com.unity3d.player.UnityPlayer: android.content.BroadcastReceiver mKillingIsMyBusiness
+com.google.androidgamesdk.SwappyDisplayManager: android.app.Activity mActivity
+com.unity3d.player.UnityPlayer$C: int h
+com.unity3d.player.s: android.graphics.Rect f
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B j
+com.unity3d.player.UnityPlayer$C: int e
+com.unity3d.player.PlatformSupport: boolean MARSHMALLOW_SUPPORT
+com.unity3d.player.N: long h
+com.unity3d.player.l: com.unity3d.player.j c
+com.unity3d.player.s: android.hardware.camera2.CaptureRequest$Builder q
+com.unity3d.player.R$string: int FreeformWindowOrientation_portrait
+com.google.androidgamesdk.SwappyDisplayManager: android.view.WindowManager mWindowManager
+com.unity3d.player.s: java.lang.Object s
+com.unity3d.player.R$string: int FreeformWindowSize_phone
+com.unity3d.player.UnityPlayer$b: java.lang.String h
+com.unity3d.player.UnityPlayer: com.unity3d.player.UnityPlayer$C m_MainThread
+com.unity3d.player.UnityPlayer$l: boolean b
+com.unity3d.player.UnityPlayer$f: com.unity3d.player.UnityPlayer b
+com.unity3d.player.UnityPlayer$d: java.lang.String a
+com.unity3d.player.a: float a
+com.unity3d.player.B: int b
+com.unity3d.player.T: com.unity3d.player.V a
+org.fmod.a: org.fmod.FMODAudioDevice a
+com.unity3d.player.Q: long g
+com.unity3d.player.C: android.content.Context a
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_REPEAT_INTERVAL
+com.unity3d.player.d: com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback a
+com.unity3d.player.i: java.lang.Object c
+com.unity3d.player.N: android.content.Context a
+com.unity3d.player.UnityPlayer$h: com.unity3d.player.UnityPlayer e
+org.fmod.a: android.media.AudioRecord g
+com.unity3d.player.UnityPlayer$b: boolean k
+com.unity3d.player.ReflectionHelper: boolean LOGV
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B c
+com.unity3d.player.V: java.util.concurrent.locks.Lock e
+com.unity3d.player.UnityPlayer$t: java.util.concurrent.Semaphore c
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_BIG_CONTENT_DESCRIPTION
+com.unity3d.player.UnityPlayer: com.unity3d.player.C mSoftInputDialog
+com.unity3d.player.q: com.unity3d.player.s a
+com.unity3d.player.u: boolean a
+com.unity3d.player.UnityPlayer$v: java.util.concurrent.Semaphore a
+com.unity3d.player.UnityPlayer: com.unity3d.player.UnityPlayer$A m_PhoneCallListener
+com.unity3d.player.b: long d
+com.unity3d.player.s: android.graphics.SurfaceTexture$OnFrameAvailableListener A
+com.unity3d.player.b: java.lang.String b
+com.unity3d.player.J: com.unity3d.player.a a
+com.unity3d.player.UnityPlayer: boolean mQuitting
+com.unity3d.player.s: int t
+com.unity3d.player.UnityPlayer$e: com.unity3d.player.UnityPlayer b
+com.unity3d.player.s: android.media.ImageReader$OnImageAvailableListener z
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_BIG_CONTENT_TITLE
+com.google.androidgamesdk.ChoreographerCallback: java.lang.String LOG_TAG
+com.unity3d.player.s: com.unity3d.player.r w
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: com.unity3d.player.PlayAssetDeliveryUnityWrapper b
+com.unity3d.player.s: android.os.Handler d
+com.unity3d.player.N: android.view.SurfaceView b
+com.unity3d.player.UnityPlayer: boolean mProcessKillRequested
+com.unity3d.player.UnityPlayer: java.lang.String LAUNCH_FULLSCREEN
+com.unity3d.player.UnityPlayer$f: boolean a
+com.unity3d.player.s: int g
+org.fmod.a: boolean h
+com.google.androidgamesdk.SwappyDisplayManager: boolean DEBUG
+com.unity3d.player.N: boolean g
+com.unity3d.player.UnityPlayer: android.content.Context mContext
+com.unity3d.player.UnityPlayer$z: com.unity3d.player.UnityPlayer$z a
+com.unity3d.player.V: com.unity3d.player.N f
+com.unity3d.player.ReflectionHelper: boolean LOG
+com.unity3d.player.UnityPlayer: java.util.concurrent.ConcurrentLinkedQueue m_Events
+com.unity3d.player.UnityPlayer: android.telephony.TelephonyManager m_TelephonyManager
+com.unity3d.player.Q: boolean e
+com.unity3d.player.ReflectionHelper$b: java.lang.String b
+com.unity3d.player.ReflectionHelper: boolean d
+com.unity3d.player.V: com.unity3d.player.V$a c
+com.unity3d.player.N: boolean r
+com.unity3d.player.UnityPermissions: java.lang.String SKIP_DIALOG_METADATA_NAME
+com.unity3d.player.UnityPlayer$w: com.unity3d.player.UnityPlayer b
+com.unity3d.player.UnityPlayer$B: com.unity3d.player.UnityPlayer$B g
+com.unity3d.player.N: android.widget.FrameLayout j
+com.unity3d.player.Q: com.unity3d.player.V h
+com.unity3d.player.f: android.os.Looper b
+com.unity3d.player.b: int g
+com.unity3d.player.MultiWindowSupport: java.lang.String RESIZABLE_WINDOW
+com.unity3d.player.b: long e
+com.unity3d.player.UnityPlayer$v: com.unity3d.player.UnityPlayer b
+org.fmod.FMODAudioDevice: org.fmod.a g
+com.unity3d.player.UnityPlayer$m: com.unity3d.player.UnityPlayer a
+com.unity3d.player.s: android.hardware.camera2.CameraManager B
+com.unity3d.player.b: int f
+com.unity3d.player.ReflectionHelper$a: com.unity3d.player.UnityPlayer b
+com.unity3d.player.UnityPlayer: com.unity3d.player.GoogleARCoreApi m_ARCoreApi
+com.unity3d.player.r: com.unity3d.player.r c
+com.unity3d.player.UnityPlayer$d: com.unity3d.player.UnityPlayer b
+com.unity3d.player.V: android.content.Context b
+com.unity3d.player.Camera2Wrapper: com.unity3d.player.s b
+com.unity3d.player.UnityPlayer$g: int a
+com.unity3d.player.i: java.util.HashSet b
+com.unity3d.player.J: com.unity3d.player.w c
+com.unity3d.player.f: com.unity3d.player.IAssetPackManagerDownloadStatusCallback a
+com.unity3d.player.b: java.util.Set a
+com.unity3d.player.R$style: int BaseUnityTheme
+com.unity3d.player.d: boolean b
+com.unity3d.player.N: boolean t
+com.unity3d.player.HFPStatus$a: com.unity3d.player.HFPStatus$a a
+com.unity3d.player.g: java.lang.String[] c
+com.unity3d.player.UnityPlayer$w: java.util.concurrent.Semaphore a
+com.google.androidgamesdk.ChoreographerCallback: com.google.androidgamesdk.ChoreographerCallback$b mLooper
+com.unity3d.player.s: android.os.HandlerThread c
+com.unity3d.player.UnityPlayer$i: int c
+com.unity3d.player.o: com.unity3d.player.s a
+com.google.androidgamesdk.SwappyDisplayManager: long mCookie
+com.unity3d.player.ReflectionHelper: com.unity3d.player.ReflectionHelper$b[] a
+org.fmod.FMODAudioDevice: java.lang.Thread a
+com.unity3d.player.N: int m
+com.unity3d.player.HFPStatus$1: com.unity3d.player.HFPStatus a
+com.unity3d.player.V: com.unity3d.player.UnityPlayer a
+com.unity3d.player.K: boolean b
+com.unity3d.player.UnityPlayer: boolean mMainDisplayOverride
+com.unity3d.player.s: float i
+com.unity3d.player.x: com.unity3d.player.C b
+com.unity3d.player.UnityPlayer: android.app.Activity currentActivity
+com.unity3d.player.p: com.unity3d.player.s a
+com.unity3d.player.N: long i
+org.fmod.FMODAudioDevice: boolean d
+com.unity3d.player.Q: java.lang.String a
+com.unity3d.player.C: boolean d
+bitter.jnibridge.JNIBridge$a: long b
+com.unity3d.player.UnityPlayer: com.unity3d.player.Camera2Wrapper m_Camera2Wrapper
+com.unity3d.player.UnityPlayer: com.unity3d.player.D m_SplashScreen
+com.unity3d.player.R$string: int FreeformWindowOrientation_landscape
+com.unity3d.player.ReflectionHelper$a: long f
+com.unity3d.player.NetworkConnectivityNougat: int b
+com.unity3d.player.PlatformSupport: boolean NOUGAT_SUPPORT
+com.unity3d.player.UnityPlayer$t: android.view.Surface b
+com.unity3d.player.G: android.content.Context a
+com.unity3d.player.MultiWindowSupport: boolean s_LastMultiWindowMode
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String KEY_NOTIFICATION_ID
+com.unity3d.player.e: android.os.Looper b
+com.unity3d.player.HFPStatus$a: com.unity3d.player.HFPStatus$a b
+com.unity3d.player.l: android.content.Context a
+com.unity3d.player.UnityPlayer$n: com.unity3d.player.UnityPlayer a
+com.unity3d.player.UnityPlayer: android.net.Uri m_launchUri
+org.fmod.FMODAudioDevice: boolean b
+com.unity3d.player.UnityPlayer$b$a: com.unity3d.player.UnityPlayer$b a
+com.unity3d.player.N: android.widget.MediaController p
+com.unity3d.player.h: java.lang.String[] c
+org.fmod.a: int d
+com.unity3d.player.f: java.lang.String c
+com.unity3d.player.ReflectionHelper$a: long d
+com.unity3d.player.J: com.unity3d.player.UnityPlayer b
+com.unity3d.player.UnityPlayer: boolean m_AddPhoneCallListener
+com.unity3d.player.UnityPlayer$j: com.unity3d.player.UnityPlayer c
+com.unity3d.player.V: boolean i
+com.unity3d.player.NetworkConnectivity: android.net.ConnectivityManager a
+com.unity3d.player.UnityPlayer$C: int f
+com.unity3d.player.N: int f
+com.unity3d.player.V: boolean h
+com.unity3d.player.ReflectionHelper$a: void finalize()
+com.unity3d.player.v: void onPixelCopyFinished(int)
+com.unity3d.player.g: void run()
+com.unity3d.player.HFPStatus: void setHFPRecordingStat(boolean)
+com.unity3d.player.HFPStatus: void initHFPStatusJni()
+com.unity3d.player.A: A(com.unity3d.player.C)
+com.unity3d.player.UnityPermissions: boolean checkInfoForMetadata(android.content.pm.PackageItemInfo)
+com.unity3d.player.N: boolean a()
+com.unity3d.player.UnityPlayer$n: UnityPlayer$n(com.unity3d.player.UnityPlayer)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: java.lang.Object registerDownloadStatusListener(com.unity3d.player.IAssetPackManagerDownloadStatusCallback)
+com.unity3d.player.K: boolean a(boolean)
+com.unity3d.player.i: void b(java.lang.String)
+com.unity3d.player.NetworkConnectivity: void a()
+com.unity3d.player.K: void c(boolean)
+com.unity3d.player.K: boolean a()
+com.unity3d.player.UnityPlayer$p: UnityPlayer$p(com.unity3d.player.UnityPlayer,android.content.Context,int)
+com.unity3d.player.UnityPlayer$j: void a()
+com.unity3d.player.q: q(com.unity3d.player.s)
+com.unity3d.player.UnityPlayer$m: void a()
+com.unity3d.player.UnityPlayer: boolean injectEvent(android.view.InputEvent)
+com.unity3d.player.UnityPlayerActivity: java.lang.String updateUnityCommandLineArguments(java.lang.String)
+com.unity3d.player.j: boolean deliverSelfNotifications()
+com.unity3d.player.PlatformSupport: PlatformSupport()
+com.unity3d.player.UnityPlayer$y: void onAccuracyChanged(android.hardware.Sensor,int)
+com.unity3d.player.U: void run()
+com.unity3d.player.OrientationLockListener: void nativeUpdateOrientationLockState(int)
+com.unity3d.player.i: void a(android.app.Activity,com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback)
+com.unity3d.player.GoogleARCoreApi: void resumeARCore()
+com.unity3d.player.ReflectionHelper: java.lang.reflect.Constructor getConstructorID(java.lang.Class,java.lang.String)
+com.unity3d.player.UnityPlayer$n: void run()
+com.unity3d.player.K: void d(boolean)
+com.unity3d.player.N: int getAudioSessionId()
+com.unity3d.player.UnityPlayer$C$a: UnityPlayer$C$a(com.unity3d.player.UnityPlayer$C)
+com.unity3d.player.UnityPlayerActivity: void onPause()
+com.unity3d.player.UnityPlayer$A: UnityPlayer$A(com.unity3d.player.UnityPlayer)
+org.fmod.FMODAudioDevice: boolean isRunning()
+com.unity3d.player.IAssetPackManagerDownloadStatusCallback: void onStatusUpdate(java.lang.String,int,long,long,int,int)
+com.unity3d.player.s: void d()
+com.unity3d.player.N: boolean isPlaying()
+org.fmod.FMODAudioDevice: void close()
+com.unity3d.player.Camera2Wrapper: boolean isCamera2FrontFacing(int)
+com.unity3d.player.UnityPlayer: java.lang.String getProcessName()
+com.unity3d.player.UnityPlayer$m: UnityPlayer$m(com.unity3d.player.UnityPlayer)
+com.unity3d.player.Camera2Wrapper: boolean setAutoFocusPoint(float,float)
+com.unity3d.player.UnityPlayer$g: void run()
+com.unity3d.player.D: D(android.content.Context,com.unity3d.player.D$a)
+com.unity3d.player.UnityPlayer$a$a: void run()
+com.unity3d.player.a: a(android.content.Context,com.unity3d.player.UnityPlayer)
+com.unity3d.player.UnityPlayer$o: void run()
+org.fmod.a: int a()
+com.unity3d.player.UnityPlayer: void unload()
+com.unity3d.player.ReflectionHelper: void setNativeExceptionOnProxy(java.lang.Object,long,boolean)
+com.unity3d.player.ReflectionHelper: java.lang.Object nativeProxyInvoke(long,java.lang.String,java.lang.Object[])
+com.unity3d.player.UnityPlayer$s: void run()
+com.unity.androidnotifications.UnityNotificationManager: int checkNotificationStatus(int)
+com.unity3d.player.UnityPlayer: boolean onKeyLongPress(int,android.view.KeyEvent)
+com.unity3d.player.UnityPlayer: void initJni(android.content.Context)
+com.unity3d.player.UnityPlayerActivity: void onWindowFocusChanged(boolean)
+com.unity3d.player.K: K()
+com.unity3d.player.d: d(com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback,boolean)
+com.unity3d.player.UnityPlayer$w: UnityPlayer$w(com.unity3d.player.UnityPlayer,java.util.concurrent.Semaphore)
+org.fmod.FMODAudioDevice: void start()
+com.unity3d.player.C: void beforeTextChanged(java.lang.CharSequence,int,int,int)
+org.fmod.FMODAudioDevice: FMODAudioDevice()
+com.unity3d.player.HFPStatus: void requestHFPStat()
+com.unity3d.player.s: boolean a(android.content.Context,int,int,int,int,int,android.view.Surface)
+com.unity3d.player.UnityPlayer: boolean isFinishing()
+com.unity3d.player.c: void onStateUpdate(java.lang.Object)
+com.unity3d.player.UnityPlayer: void kill()
+com.unity3d.player.ReflectionHelper$c: ReflectionHelper$c(long,long)
+com.unity3d.player.UnityPlayer: boolean nativeIsAutorotationOn()
+com.unity3d.player.UnityPlayer: void queueGLThreadEvent(java.lang.Runnable)
+com.unity3d.player.H: H()
+com.unity3d.player.w: w(android.content.Context)
+com.unity3d.player.UnityPlayer$b: UnityPlayer$b(com.unity3d.player.UnityPlayer,com.unity3d.player.UnityPlayer,java.lang.String,int,boolean,boolean,boolean,boolean,java.lang.String,int,boolean,boolean)
+com.unity3d.player.UnityCoreAssetPacksStatusCallbacks: void onStatusUpdate(java.lang.String,int,long,long,int,int)
+com.unity3d.player.O: O(com.unity3d.player.P)
+com.unity.androidnotifications.UnityNotificationManager: android.app.NotificationManager getNotificationManager()
+com.unity3d.player.s: android.hardware.camera2.CameraManager c(android.content.Context)
+com.unity.androidnotifications.UnityNotificationManager: int getTargetSdk()
+com.unity3d.player.HFPStatus$1: void onReceive(android.content.Context,android.content.Intent)
+com.unity3d.player.w: void onActivityStopped(android.app.Activity)
+com.unity3d.player.ReflectionHelper: java.lang.Class[] a(java.lang.String)
+com.unity3d.player.UnityPlayer$C: UnityPlayer$C(com.unity3d.player.UnityPlayer)
+com.unity3d.player.UnityPlayer$C: void run()
+com.unity.androidnotifications.UnityNotificationManager: com.unity.androidnotifications.UnityNotificationManager getNotificationManagerImpl(android.app.Activity,com.unity.androidnotifications.NotificationCallback)
+com.google.androidgamesdk.ChoreographerCallback: ChoreographerCallback(long)
+com.unity3d.player.HFPStatus: HFPStatus(android.content.Context)
+com.unity3d.player.UnityPlayerActivity: boolean onGenericMotionEvent(android.view.MotionEvent)
+com.unity3d.player.GoogleARCoreApi: void pauseARCore()
+com.unity3d.player.NetworkConnectivityNougat$a: NetworkConnectivityNougat$a(com.unity3d.player.NetworkConnectivityNougat)
+com.google.androidgamesdk.SwappyDisplayManager: void nSetSupportedRefreshPeriods(long,long[],int[])
+com.unity3d.player.S: void run()
+com.unity3d.player.C: android.view.View createSoftInputView()
+com.unity3d.player.UnityPlayer$D: void a()
+com.unity3d.player.UnityPermissions: boolean skipPermissionsDialog(android.app.Activity)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: java.lang.String getAssetPackPath(java.lang.String)
+com.unity3d.player.N: boolean exitOnKeypress(int,android.view.KeyEvent)
+com.unity3d.player.UnityPlayer$C$a: boolean handleMessage(android.os.Message)
+com.unity3d.player.UnityPlayer: void postOnUiThread(java.lang.Runnable)
+com.unity3d.player.C: boolean dispatchTouchEvent(android.view.MotionEvent)
+com.unity3d.player.p: void onImageAvailable(android.media.ImageReader)
+com.unity3d.player.ReflectionHelper: java.lang.Object newProxyInstance(com.unity3d.player.UnityPlayer,long,java.lang.Class[])
+com.unity3d.player.J: void a(float)
+com.unity3d.player.UnityPlayer: void setMainSurfaceViewAspectRatio(float)
+com.unity3d.player.UnityPlayerActivity: void onConfigurationChanged(android.content.res.Configuration)
+com.unity3d.player.UnityPlayer$g: UnityPlayer$g(com.unity3d.player.UnityPlayer,int,int)
+com.unity3d.player.C: java.lang.String b()
+com.unity3d.player.UnityPlayer: android.content.pm.ApplicationInfo getApplicationInfo()
+com.unity3d.player.K: void e()
+com.unity3d.player.K: boolean b()
+com.unity3d.player.UnityPlayer: boolean skipPermissionsDialog()
+com.unity3d.player.UnityPlayer: boolean onKeyMultiple(int,int,android.view.KeyEvent)
+com.unity3d.player.UnityPlayerActivity: boolean onTouchEvent(android.view.MotionEvent)
+com.unity3d.player.N: int getDuration()
+com.unity3d.player.BuildConfig: BuildConfig()
+com.unity3d.player.UnityPlayer: void preloadJavaPlugins()
+com.unity.androidnotifications.UnityNotificationManager: void deleteNotificationChannelGroup(java.lang.String)
+com.unity3d.player.NativeLoader: boolean unload()
+com.unity3d.player.s: void a()
+com.unity3d.player.V: void d()
+com.unity.androidnotifications.UnityNotificationManager: UnityNotificationManager()
+com.unity3d.player.UnityPlayer: UnityPlayer(android.content.Context,com.unity3d.player.IUnityPlayerLifecycleEvents)
+com.unity3d.player.HFPStatus$1: HFPStatus$1(com.unity3d.player.HFPStatus)
+com.unity.androidnotifications.UnityNotificationManager: void setupBigPictureStyle(android.app.Notification$Builder,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)
+com.unity3d.player.UnityPlayer: void removeViewFromPlayer(android.view.View)
+com.unity3d.player.UnityPlayer$h: void a()
+com.unity3d.player.UnityPlayer$w: void run()
+com.unity3d.player.R$style: R$style()
+com.unity3d.player.UnityPlayer: void nativeSoftInputCanceled()
+com.unity3d.player.e: void onSuccess(java.lang.Object)
+com.unity3d.player.UnityPlayerActivity: UnityPlayerActivity()
+com.unity3d.player.UnityPlayerActivity: boolean onKeyDown(int,android.view.KeyEvent)
+com.unity3d.player.MultiWindowSupport: MultiWindowSupport()
+com.unity3d.player.F: void onChange(boolean)
+com.unity3d.player.e: e(com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback)
+org.fmod.FMODAudioDevice: void stop()
+com.unity3d.player.s: boolean e(android.content.Context,int)
+com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver: UnityNotificationRestartOnBootReceiver()
+com.google.androidgamesdk.SwappyDisplayManager: boolean modeMatchesCurrentResolution(android.view.Display$Mode)
+com.unity3d.player.UnityPermissions$ModalWaitForPermissionResponse: void onPermissionDenied(java.lang.String)
+com.unity3d.player.UnityPlayer: java.lang.String getClipboardText()
+com.unity.androidnotifications.UnityNotificationManager: void setNotificationColor(android.app.Notification$Builder,int)
+com.unity3d.player.UnityPlayer$t: UnityPlayer$t(com.unity3d.player.UnityPlayer,int,android.view.Surface,java.util.concurrent.Semaphore)
+com.unity3d.player.IPermissionRequestCallbacks: void onPermissionGranted(java.lang.String)
+com.unity3d.player.UnityPlayer: boolean getLaunchFullscreen()
+com.unity3d.player.ReflectionHelper$a: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])
+com.unity3d.player.C: void a(java.lang.String,boolean)
+com.unity.androidnotifications.UnityNotificationManager: void setNotificationIcon(android.app.Notification$Builder,java.lang.String,java.lang.String)
+com.unity3d.player.N: boolean onKeyDown(int,android.view.KeyEvent)
+com.unity3d.player.ReflectionHelper: java.lang.Object newProxyInstance(com.unity3d.player.UnityPlayer,long,java.lang.Class)
+com.unity3d.player.Camera2Wrapper: int[] getCamera2Resolutions(int)
+com.unity3d.player.x: x(com.unity3d.player.C,android.view.View)
+com.unity3d.player.V: void b()
+com.unity3d.player.n: void onConfigureFailed(android.hardware.camera2.CameraCaptureSession)
+com.unity3d.player.UnityPlayer$p: void onOrientationChanged(int)
+com.unity3d.player.UnityPlayer: boolean getAutoReportFullyDrawnEnabled()
+com.unity3d.player.HFPStatus$a: HFPStatus$a(java.lang.String,int)
+com.unity3d.player.Camera2Wrapper: int getCamera2FocalLengthEquivalent(int)
+com.unity3d.player.p: p(com.unity3d.player.s)
+com.unity3d.player.f: void a(java.lang.String,int,int,long)
+com.unity3d.player.UnityPlayer$d: UnityPlayer$d(com.unity3d.player.UnityPlayer,java.lang.String)
+com.unity3d.player.C: void a(int,int)
+com.unity3d.player.UnityPlayer: boolean addViewToPlayer(android.view.View,boolean)
+com.unity3d.player.NetworkConnectivityNougat: NetworkConnectivityNougat(android.content.Context)
+com.google.androidgamesdk.SwappyDisplayManager: void nOnRefreshPeriodChanged(long,long,long,long)
+com.unity3d.player.b: b(java.util.Set,java.lang.String,int,long,long,int,int)
+com.unity3d.player.UnityPlayer: void DisableStaticSplashScreen()
+com.unity3d.player.z: z(com.unity3d.player.C,android.content.Context)
+com.unity3d.player.UnityPlayer$D: UnityPlayer$D(com.unity3d.player.UnityPlayer)
+com.unity3d.player.s: int[] b(android.content.Context,int)
+com.unity.androidnotifications.NotificationCallback: void onSentNotification(android.app.Notification)
+com.unity3d.player.UnityPlayer: boolean nativeGetNoWindowMode()
+com.unity.androidnotifications.UnityNotificationManager: int areNotificationsEnabled()
+com.unity3d.player.C: C(android.content.Context,com.unity3d.player.UnityPlayer,java.lang.String,int,boolean,boolean,boolean,boolean,java.lang.String,int,boolean,boolean)
+org.fmod.a: void c()
+com.unity3d.player.UnityPlayer: void shutdown()
+com.unity3d.player.UnityPlayer: void quit()
+com.unity3d.player.V: void a()
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void unregisterDownloadStatusListener(java.lang.Object)
+com.unity3d.player.UnityPlayer$f: void run()
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void getAssetPackState(java.lang.String,com.unity3d.player.IAssetPackManagerStatusQueryCallback)
+com.unity3d.player.MultiWindowSupport: void saveMultiWindowMode(android.app.Activity)
+com.unity3d.player.UnityPlayer: void onUnityPlayerUnloaded()
+com.unity.androidnotifications.UnityNotificationManager: boolean canScheduleExactAlarms()
+com.unity3d.player.UnityPlayer$q: UnityPlayer$q(com.unity3d.player.UnityPlayer,float)
+com.unity3d.player.N: void onPrepared(android.media.MediaPlayer)
+com.unity3d.player.UnityPlayer$d: void run()
+com.unity3d.player.UnityPlayer$D: void run()
+com.unity3d.player.NetworkConnectivityNougat$a: void onCapabilitiesChanged(android.net.Network,android.net.NetworkCapabilities)
+com.unity3d.player.UnityPlayer$o: UnityPlayer$o(com.unity3d.player.UnityPlayer)
+com.unity.androidnotifications.UnityNotificationManager: void cancelAllPendingNotificationIntents()
+com.unity3d.player.N: int getCurrentPosition()
+com.unity3d.player.UnityPlayer: void reportSoftInputSelection(int,int)
+com.unity3d.player.m: void onCaptureSequenceAborted(android.hardware.camera2.CameraCaptureSession,int)
+com.unity3d.player.s: void a(java.lang.Object)
+com.unity3d.player.UnityPlayer: void finish()
+com.unity3d.player.UnityPlayer: boolean getSplashEnabled()
+com.unity3d.player.UnityPlayerActivity: boolean dispatchKeyEvent(android.view.KeyEvent)
+com.unity3d.player.Camera2Wrapper: int getCamera2Count()
+com.unity3d.player.J: void b()
+com.unity3d.player.UnityPlayer$r: UnityPlayer$r(com.unity3d.player.UnityPlayer)
+com.unity3d.player.UnityPlayer: void setCharacterLimit(int)
+com.unity3d.player.HFPStatus: void clearHFPStat()
+com.unity3d.player.N: int getBufferPercentage()
+com.unity3d.player.UnityPlayer: android.content.pm.ActivityInfo getActivityInfo()
+com.unity3d.player.s: void a(android.hardware.camera2.CameraDevice)
+com.unity3d.player.ReflectionHelper: void endProxyCall()
+com.unity3d.player.UnityPlayer$r: void run()
+com.unity3d.player.i: java.lang.Object a(com.unity3d.player.IAssetPackManagerDownloadStatusCallback)
+com.unity3d.player.C: void onTextChanged(java.lang.CharSequence,int,int,int)
+com.unity3d.player.Camera2Wrapper: void a()
+com.unity3d.player.UnityPlayer: void EarlyEnableFullScreenIfEnabled()
+com.unity3d.player.j: void onChange(boolean,android.net.Uri)
+com.unity3d.player.a: boolean onGenericMotionEvent(android.view.MotionEvent)
+com.unity3d.player.ReflectionHelper: java.lang.String getFieldSignature(java.lang.reflect.Field)
+com.unity3d.player.N: void cancelOnPrepare()
+com.unity3d.player.R: R()
+com.unity3d.player.N: void onVideoSizeChanged(android.media.MediaPlayer,int,int)
+com.unity3d.player.ReflectionHelper: float a(java.lang.Class,java.lang.Class[],java.lang.Class[])
+com.unity3d.player.UnityPlayer: void sendSurfaceChangedEvent()
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void a()
+com.unity3d.player.a: void a(float)
+com.unity3d.player.ReflectionHelper: void nativeProxyFinalize(long)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void removeAssetPack(java.lang.String)
+com.google.androidgamesdk.ChoreographerCallback: void postFrameCallback()
+com.unity3d.player.NetworkConnectivityNougat$a: void onAvailable(android.net.Network)
+com.unity3d.player.N: void surfaceCreated(android.view.SurfaceHolder)
+com.unity3d.player.N: void start()
+com.google.androidgamesdk.SwappyDisplayManager: void onDisplayChanged(int)
+com.unity.androidnotifications.UnityNotificationManager: boolean checkIfPendingNotificationIsRegistered(int)
+com.unity3d.player.UnityPlayer: void configurationChanged(android.content.res.Configuration)
+org.fmod.a: void d()
+com.unity3d.player.C: void onBackPressed()
+com.unity3d.player.G: G(android.content.Context)
+com.unity3d.player.w: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.unity3d.player.UnityPlayer: void nativeSetLaunchURL(java.lang.String)
+com.unity3d.player.c: c(com.unity3d.player.i,com.unity3d.player.IAssetPackManagerDownloadStatusCallback,android.os.Looper)
+com.unity3d.player.D: void onDetachedFromWindow()
+com.unity3d.player.N: boolean onTouchEvent(android.view.MotionEvent)
+com.unity3d.player.IAssetPackManagerStatusQueryCallback: void onStatusResult(long,java.lang.String[],int[],int[])
+com.unity3d.player.K: java.lang.String toString()
+com.unity3d.player.AudioVolumeHandler: void onAudioVolumeChanged(int)
+com.unity3d.player.UnityPlayer: void reportSoftInputStr(java.lang.String,int,boolean)
+com.unity3d.player.s: boolean d(android.content.Context,int)
+com.unity3d.player.ReflectionHelper: boolean beginProxyCall(long)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void cancelAssetPackDownloads(java.lang.String[])
+com.google.androidgamesdk.SwappyDisplayManager: void terminate()
+com.unity3d.player.UnityPlayer: void hideSoftInput()
+com.unity3d.player.NetworkConnectivityNougat$a: void onUnavailable()
+com.unity3d.player.UnityPlayerActivity: void onCreate(android.os.Bundle)
+com.unity3d.player.UnityPlayer: void runOnAnonymousThread(java.lang.Runnable)
+bitter.jnibridge.JNIBridge: void disableInterfaceProxy(java.lang.Object)
+com.unity3d.player.NetworkConnectivity: NetworkConnectivity(android.content.Context)
+com.unity3d.player.V: boolean a(android.content.Context,java.lang.String,int,int,int,boolean,long,long,com.unity3d.player.V$a)
+com.google.androidgamesdk.SwappyDisplayManager: void updateSupportedRefreshRates(android.view.Display)
+com.unity3d.player.s: void h()
+com.unity3d.player.UnityPlayer: void nativeFocusChanged(boolean)
+com.unity3d.player.M: void run()
+com.unity3d.player.v: v(com.unity3d.player.w,android.content.Context)
+com.unity3d.player.UnityPlayer: void resume()
+com.unity3d.player.UnityPlayer$b$a: UnityPlayer$b$a(com.unity3d.player.UnityPlayer$b)
+com.unity3d.player.i: com.unity3d.player.t a(android.content.Context)
+com.unity3d.player.r: r(java.lang.String,int)
+com.unity3d.player.q: void onFrameAvailable(android.graphics.SurfaceTexture)
+com.unity3d.player.Q: Q(com.unity3d.player.V,java.lang.String,int,int,int,boolean,long,long)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: PlayAssetDeliveryUnityWrapper(android.content.Context)
+com.unity3d.player.S: S(com.unity3d.player.V)
+com.unity3d.player.UnityPlayer: int getNaturalOrientation(int)
+com.unity3d.player.h: void onComplete(com.google.android.gms.tasks.Task)
+com.unity3d.player.UnityPlayer: void swapViews(android.view.View,android.view.View)
+com.unity3d.player.i: void a(java.lang.Object)
+com.unity3d.player.Camera2Wrapper: void a(java.lang.Object,java.lang.Object,java.lang.Object,int,int,int)
+com.unity3d.player.m: void onCaptureSequenceCompleted(android.hardware.camera2.CameraCaptureSession,int,long)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: com.unity3d.player.PlayAssetDeliveryUnityWrapper init(android.content.Context)
+com.unity3d.player.U: U(com.unity3d.player.V)
+com.unity3d.player.UnityPlayer: void newIntent(android.content.Intent)
+com.unity3d.player.UnityPermissions: UnityPermissions()
+com.unity3d.player.l: void a(int,com.unity3d.player.k)
+com.unity3d.player.UnityPlayer: void queueGLThreadEvent(com.unity3d.player.UnityPlayer$D)
+com.unity3d.player.ReflectionHelper: boolean a(com.unity3d.player.ReflectionHelper$b)
+com.unity3d.player.HFPStatus: void deinitHFPStatusJni()
+com.unity.androidnotifications.UnityNotificationManager: void registerNotificationChannel(java.lang.String,java.lang.String,int,java.lang.String,boolean,boolean,boolean,boolean,long[],int,java.lang.String)
+com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback: void onMobileDataConfirmationResult(boolean)
+org.fmod.a: void b()
+com.unity3d.player.UnityPlayer: void reportSoftInputIsVisible(boolean)
+com.unity3d.player.UnityPermissions: void requestUserPermissions(android.app.Activity,java.lang.String[],com.unity3d.player.IPermissionRequestCallbacks)
+com.unity3d.player.UnityPlayer: android.os.Bundle getSettings()
+com.unity3d.player.o: void onOpened(android.hardware.camera2.CameraDevice)
+com.unity3d.player.UnityPlayer: void setClipboardText(java.lang.String)
+com.unity3d.player.UnityCoreAssetPacksStatusCallbacks: void nativeStatusQueryResult(java.lang.String,int,int)
+com.unity3d.player.N: void pause()
+com.unity3d.player.ReflectionHelper: void endUnityLaunch()
+com.google.androidgamesdk.ChoreographerCallback: void postFrameCallbackDelayed(long)
+com.unity3d.player.UnityPlayer: void nativeLowMemory()
+com.unity3d.player.UnityPlayer: boolean startOrientationListener(int)
+com.unity3d.player.s: void g()
+com.unity3d.player.UnityPlayer: void showSoftInput(java.lang.String,int,boolean,boolean,boolean,boolean,java.lang.String,int,boolean,boolean)
+com.unity3d.player.GoogleARCoreApi: GoogleARCoreApi()
+com.unity3d.player.UnityPlayer: void nativeRecreateGfxState(int,android.view.Surface)
+com.unity3d.player.UnityPlayer$k: void onClick(android.content.DialogInterface,int)
+com.unity3d.player.UnityPlayer: void nativeSoftInputLostFocus()
+com.unity3d.player.ReflectionHelper: java.lang.reflect.Method getMethodID(java.lang.Class,java.lang.String,java.lang.String,boolean)
+com.google.androidgamesdk.ChoreographerCallback: void doFrame(long)
+com.unity3d.player.UnityPlayer$v: void run()
+com.unity3d.player.z: void onWindowFocusChanged(boolean)
+com.unity3d.player.UnityPlayer$j: UnityPlayer$j(com.unity3d.player.UnityPlayer,android.graphics.Rect)
+com.unity3d.player.i: java.lang.String a(java.lang.String)
+com.unity3d.player.N: void onCompletion(android.media.MediaPlayer)
+com.unity3d.player.H: void uncaughtException(java.lang.Thread,java.lang.Throwable)
+com.unity3d.player.UnityPlayer: void nativeOrientationChanged(int,int)
+com.unity3d.player.ReflectionHelper$b: ReflectionHelper$b(java.lang.Class,java.lang.String,java.lang.String)
+com.unity3d.player.ReflectionHelper: void a(com.unity3d.player.ReflectionHelper$b,java.lang.reflect.Member)
+com.unity3d.player.UnityPlayer$t: void run()
+bitter.jnibridge.JNIBridge: java.lang.Object invoke(long,java.lang.Class,java.lang.reflect.Method,java.lang.Object[])
+com.unity3d.player.UnityPlayer$b: void run()
+com.unity3d.player.UnityPlayer$q: void run()
+com.google.androidgamesdk.SwappyDisplayManager: void setPreferredDisplayModeId(int)
+com.unity3d.player.UnityPlayer: void pauseJavaAndCallUnloadCallback()
+com.unity3d.player.UnityPlayer: boolean onGenericMotionEvent(android.view.MotionEvent)
+com.unity.androidnotifications.UnityNotificationManager: android.app.Notification getNotificationFromIntent(android.content.Intent)
+com.unity3d.player.K: void f()
+com.unity.androidnotifications.UnityNotificationManager: java.lang.Integer getNotificationColor(android.app.Notification)
+com.unity.androidnotifications.UnityNotificationManager: void setNotificationGroupAlertBehavior(android.app.Notification$Builder,int)
+com.unity3d.player.s: void c()
+com.unity3d.player.UnityPlayer: void reportSoftInputArea(android.graphics.Rect)
+com.unity3d.player.UnityPlayerActivity: void onDestroy()
+com.unity3d.player.N: boolean canPause()
+com.unity.androidnotifications.UnityNotificationManager: void deleteNotificationChannel(java.lang.String)
+com.unity3d.player.ReflectionHelper$b: boolean equals(java.lang.Object)
+com.unity3d.player.J: J(android.content.Context,com.unity3d.player.UnityPlayer)
+com.unity3d.player.UnityPlayer$v: UnityPlayer$v(com.unity3d.player.UnityPlayer,java.util.concurrent.Semaphore)
+com.unity3d.player.l: void a()
+com.unity3d.player.UnityPlayer: boolean nativeDone()
+com.unity3d.player.AudioVolumeHandler: void a()
+com.unity3d.player.Camera2Wrapper: void stopCamera2()
+com.unity3d.player.Camera2Wrapper: boolean isCamera2AutoFocusPointSupported(int)
+com.unity3d.player.ReflectionHelper$a: ReflectionHelper$a(long,com.unity3d.player.UnityPlayer,java.lang.Class[])
+com.unity3d.player.UnityPlayerActivity: boolean onKeyUp(int,android.view.KeyEvent)
+com.google.androidgamesdk.ChoreographerCallback: void terminate()
+com.unity3d.player.GoogleARCoreApi: void initializeARCore(android.app.Activity)
+com.google.androidgamesdk.SwappyDisplayManager: void onDisplayAdded(int)
+com.unity3d.player.UnityPlayer: void init(int,boolean)
+org.fmod.FMODAudioDevice: void releaseAudioTrack()
+com.unity3d.player.s: int a(android.content.Context,int)
+com.unity3d.player.MultiWindowSupport: boolean getAllowResizableWindow(android.app.Activity)
+com.unity.androidnotifications.UnityNotificationManager: java.lang.String getNotificationChannelId(android.app.Notification)
+com.unity3d.player.Camera2Wrapper: void nativeSurfaceTextureReady(java.lang.Object)
+com.unity3d.player.N: void a(int)
+com.unity3d.player.UnityPlayer: void UnitySendMessage(java.lang.String,java.lang.String,java.lang.String)
+com.unity3d.player.UnityPlayer: java.lang.String loadNative(java.lang.String)
+bitter.jnibridge.JNIBridge: JNIBridge()
+com.unity.androidnotifications.UnityNotificationManager: int scheduleNotification(android.app.Notification$Builder,boolean)
+com.unity3d.player.Camera2Wrapper: android.graphics.Rect getFrameSizeCamera2()
+com.unity3d.player.UnityPlayer: void nativeSetKeyboardIsVisible(boolean)
+com.unity3d.player.UnityPlayer: boolean nativePause()
+com.unity3d.player.y: void onFocusChange(android.view.View,boolean)
+com.unity3d.player.z: boolean onKeyPreIme(int,android.view.KeyEvent)
+com.unity3d.player.C: void a(boolean)
+com.unity3d.player.i: void a(java.lang.String[],com.unity3d.player.IAssetPackManagerStatusQueryCallback)
+com.unity.androidnotifications.UnityNotificationManager: void setNotificationUsesChronometer(android.app.Notification$Builder,boolean)
+com.unity3d.player.T: void run()
+com.google.androidgamesdk.SwappyDisplayManager: SwappyDisplayManager(long,android.app.Activity)
+com.unity3d.player.u: void Log(int,java.lang.String)
+com.unity3d.player.OrientationLockListener: OrientationLockListener(android.content.Context)
+com.unity3d.player.s: s(com.unity3d.player.a.a)
+com.unity3d.player.UnityPlayerActivity: void onStart()
+com.unity3d.player.NetworkConnectivityNougat: void a()
+com.unity3d.player.g: g(com.unity3d.player.IAssetPackManagerStatusQueryCallback,long,java.lang.String[],int[],int[])
+com.unity3d.player.UnityPlayer: int getUaaLLaunchProcessType()
+com.unity3d.player.UnityPlayer: void toggleGyroscopeSensor(boolean)
+com.unity3d.player.UnityPlayer$e: void run()
+com.unity3d.player.K: void e(boolean)
+com.unity3d.player.G: void a(com.unity3d.player.E,java.lang.String)
+com.unity3d.player.UnityPlayer: void runOnUiThread(java.lang.Runnable)
+com.unity3d.player.i: i(android.content.Context)
+com.unity3d.player.K: boolean d()
+com.unity3d.player.UnityPlayer: java.lang.String getKeyboardLayout()
+com.unity3d.player.ReflectionHelper$a: java.lang.Object a(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])
+com.unity3d.player.UnityPlayer$y: void onSensorChanged(android.hardware.SensorEvent)
+com.unity3d.player.NetworkConnectivity: int b()
+com.unity3d.player.a: boolean a()
+com.unity3d.player.OrientationLockListener: void a(boolean)
+com.unity3d.player.f: f(com.unity3d.player.IAssetPackManagerDownloadStatusCallback,java.lang.String)
+com.unity3d.player.UnityPlayer$a: void run()
+com.unity3d.player.UnityPlayer$A: void onCallStateChanged(int,java.lang.String)
+com.unity3d.player.UnityPlayer: boolean onKeyDown(int,android.view.KeyEvent)
+com.unity3d.player.UnityPlayer: void hideStatusBar()
+com.unity3d.player.I: void surfaceDestroyed(android.view.SurfaceHolder)
+com.google.androidgamesdk.ChoreographerCallback: void nOnChoreographer(long,long)
+com.unity3d.player.z: void onSelectionChanged(int,int)
+com.unity3d.player.UnityPlayer$i: void a()
+com.unity3d.player.R$string: R$string()
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void downloadAssetPacks(java.lang.String[],com.unity3d.player.IAssetPackManagerDownloadStatusCallback)
+com.unity3d.player.w: void onActivityDestroyed(android.app.Activity)
+com.unity3d.player.d: void run()
+com.unity3d.player.K: boolean c()
+com.unity3d.player.K: void b(boolean)
+com.unity3d.player.N: boolean onKeyUp(int,android.view.KeyEvent)
+com.unity3d.player.ReflectionHelper: java.lang.Class a(java.lang.String,int[])
+com.unity3d.player.UnityPlayer$h: UnityPlayer$h(com.unity3d.player.UnityPlayer,boolean,java.lang.String,int)
+com.unity.androidnotifications.UnityNotificationManager: void cancelDisplayedNotification(int)
+com.unity3d.player.UnityPlayer: void onUnityPlayerQuitted()
+com.unity3d.player.a: void onMeasure(int,int)
+com.unity3d.player.NetworkConnectivityNougat$a: void onLost(android.net.Network)
+com.unity3d.player.w: void onActivityPaused(android.app.Activity)
+com.unity3d.player.P: P(com.unity3d.player.Q)
+com.unity3d.player.C: java.lang.String a()
+com.unity3d.player.UnityPlayerActivity: void onLowMemory()
+com.unity.androidnotifications.UnityNotificationManager: void onReceive(android.content.Context,android.content.Intent)
+com.unity3d.player.ReflectionHelper: void nativeProxyLogJNIInvokeException(long)
+com.unity3d.player.i: void a(java.lang.String[],com.unity3d.player.IAssetPackManagerDownloadStatusCallback)
+com.unity3d.player.Camera2Wrapper: void a(java.lang.Object)
+com.unity3d.player.UnityPlayer: UnityPlayer(android.content.Context)
+com.unity3d.player.A: boolean onEditorAction(android.widget.TextView,int,android.view.KeyEvent)
+org.fmod.a: void run()
+com.unity3d.player.Camera2Wrapper: void deinitCamera2Jni()
+com.unity3d.player.UnityPlayer$e: UnityPlayer$e(com.unity3d.player.UnityPlayer,int)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void getAssetPackStates(java.lang.String[],com.unity3d.player.IAssetPackManagerStatusQueryCallback)
+com.unity3d.player.D$a: com.unity3d.player.D$a[] a()
+com.unity3d.player.o: void onError(android.hardware.camera2.CameraDevice,int)
+com.unity3d.player.AudioVolumeHandler: AudioVolumeHandler(android.content.Context)
+com.unity3d.player.UnityPlayer: boolean getHaveAndroidWindowSupport()
+com.unity3d.player.Camera2Wrapper: Camera2Wrapper(android.content.Context)
+com.unity3d.player.s: boolean a(float,float)
+bitter.jnibridge.JNIBridge$a: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])
+com.unity.androidnotifications.UnityNotificationManager: com.unity.androidnotifications.NotificationChannelWrapper[] getNotificationChannels()
+com.unity3d.player.UnityPlayer: void disableLogger()
+com.unity3d.player.UnityPlayer: boolean getARCoreEnabled()
+com.unity3d.player.UnityPlayer: int getSplashMode()
+com.unity3d.player.m: void onCaptureCompleted(android.hardware.camera2.CameraCaptureSession,android.hardware.camera2.CaptureRequest,android.hardware.camera2.TotalCaptureResult)
+com.unity3d.player.I: void surfaceChanged(android.view.SurfaceHolder,int,int,int)
+com.unity.androidnotifications.UnityNotificationManager: com.unity.androidnotifications.NotificationChannelWrapper getNotificationChannel(java.lang.String)
+com.unity3d.player.N: void destroyPlayer()
+com.unity3d.player.UnityPlayer$C$a: void a()
+com.unity3d.player.UnityPlayer: void nativeApplicationUnload()
+org.fmod.FMODAudioDevice: int fmodProcessMicData(java.nio.ByteBuffer,int)
+com.unity.androidnotifications.UnityNotificationManager: void showNotificationSettings(java.lang.String)
+org.fmod.FMODAudioDevice: void run()
+com.unity3d.player.Camera2Wrapper: void closeCamera2()
+com.unity3d.player.UnityPlayer: void nativeSoftInputClosed()
+com.unity3d.player.UnityPermissions$ModalWaitForPermissionResponse: UnityPermissions$ModalWaitForPermissionResponse()
+com.unity.androidnotifications.UnityNotificationManager: void onReceive(android.content.Intent)
+com.unity3d.player.N: void onBufferingUpdate(android.media.MediaPlayer,int)
+com.unity3d.player.C: void a(android.widget.EditText,java.lang.String,int,boolean,boolean,boolean,java.lang.String,int)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void requestToUseMobileData(android.app.Activity,com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback)
+com.unity3d.player.UnityPlayer: boolean isUaaLUseCase()
+com.unity3d.player.UnityPlayer: boolean IsWindowTranslucent()
+com.unity3d.player.M: M(com.unity3d.player.N,com.unity3d.player.N)
+com.unity3d.player.Camera2Wrapper: void startCamera2()
+com.unity3d.player.V: void runOnUiThread(java.lang.Runnable)
+com.unity3d.player.UnityPlayer$i: UnityPlayer$i(com.unity3d.player.UnityPlayer,int,int)
+com.unity3d.player.G: void a()
+com.unity3d.player.UnityPlayer: boolean nativeInjectEvent(android.view.InputEvent)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void cancelAssetPackDownload(java.lang.String)
+com.unity3d.player.D: void onLayout(boolean,int,int,int,int)
+com.unity3d.player.N: void updateVideoLayout()
+com.unity3d.player.UnityPlayer$u: void run()
+com.unity3d.player.UnityPlayer: void reportError(java.lang.String,java.lang.String)
+com.unity.androidnotifications.UnityNotificationManager: int getNotificationGroupAlertBehavior(android.app.Notification)
+com.unity3d.player.UnityPlayer: boolean onKeyUp(int,android.view.KeyEvent)
+com.unity3d.player.UnityPlayerActivity: void onResume()
+com.unity3d.player.m: void onCaptureFailed(android.hardware.camera2.CameraCaptureSession,android.hardware.camera2.CaptureRequest,android.hardware.camera2.CaptureFailure)
+com.unity3d.player.l: l(android.content.Context)
+com.unity3d.player.UnityPlayer: void checkResumePlayer()
+com.unity3d.player.N: void surfaceDestroyed(android.view.SurfaceHolder)
+com.unity3d.player.UnityPlayer: void nativeSetInputSelection(int,int)
+org.fmod.a: a(org.fmod.FMODAudioDevice,int,int,int)
+com.unity3d.player.i: void a(java.lang.String[])
+com.unity3d.player.IUnityPlayerLifecycleEvents: void onUnityPlayerUnloaded()
+com.unity3d.player.N: void seekTo(int)
+com.unity3d.player.UnityPlayerActivity: void onUnityPlayerQuitted()
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: boolean playCoreApiMissing()
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: void downloadAssetPack(java.lang.String,com.unity3d.player.IAssetPackManagerDownloadStatusCallback)
+com.unity3d.player.UnityPlayer: void windowFocusChanged(boolean)
+com.unity3d.player.UnityPlayer: java.lang.String getUnityNativeLibraryPath(android.content.Context)
+org.fmod.FMODAudioDevice: int startAudioRecord(int,int,int)
+com.unity3d.player.UnityCoreAssetPacksStatusCallbacks: UnityCoreAssetPacksStatusCallbacks()
+com.unity3d.player.UnityPlayer$B: UnityPlayer$B(java.lang.String,int)
+com.unity3d.player.OrientationLockListener: void a()
+com.unity3d.player.UnityPlayer: void nativeMuteMasterAudio(boolean)
+com.unity3d.player.MultiWindowSupport: boolean isInMultiWindowMode(android.app.Activity)
+com.unity3d.player.UnityPlayer: void updateGLDisplay(int,android.view.Surface)
+com.unity3d.player.f: void onComplete(com.google.android.gms.tasks.Task)
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: com.unity3d.player.PlayAssetDeliveryUnityWrapper getInstance()
+com.unity3d.player.UnityPlayer$k: UnityPlayer$k(com.unity3d.player.UnityPlayer)
+com.unity3d.player.C: void afterTextChanged(android.text.Editable)
+com.unity3d.player.N: boolean canSeekBackward()
+com.unity3d.player.s: android.util.Size[] a(android.hardware.camera2.CameraCharacteristics)
+com.unity3d.player.UnityPlayer$a$a: UnityPlayer$a$a(com.unity3d.player.UnityPlayer$a)
+com.unity3d.player.UnityPlayerActivity: void onStop()
+com.unity3d.player.h: h(com.unity3d.player.IAssetPackManagerStatusQueryCallback,java.lang.String[])
+com.unity3d.player.j: j(com.unity3d.player.l,android.os.Handler,android.media.AudioManager,int,com.unity3d.player.k)
+com.unity3d.player.J: boolean a()
+com.unity3d.player.UnityPlayer: boolean stopOrientationListener()
+com.unity3d.player.o: void onClosed(android.hardware.camera2.CameraDevice)
+com.unity3d.player.UnityPlayer: void nativeReportKeyboardConfigChanged()
+com.unity3d.player.UnityPlayer: boolean updateDisplayInternal(int,android.view.Surface)
+com.unity3d.player.UnityPlayer$l: UnityPlayer$l(com.unity3d.player.UnityPlayer,boolean)
+com.unity3d.player.C: void a(int)
+com.unity3d.player.UnityPlayer: void pause()
+com.unity3d.player.x: void onGlobalLayout()
+com.unity3d.player.UnityPlayer: boolean onTouchEvent(android.view.MotionEvent)
+com.unity3d.player.UnityPlayer: boolean loadLibrary(java.lang.String)
+com.unity3d.player.UnityPlayer$y: UnityPlayer$y(com.unity3d.player.UnityPlayer)
+com.unity3d.player.UnityPlayer: java.lang.String getNetworkProxySettings(java.lang.String)
+com.unity3d.player.ReflectionHelper: java.lang.reflect.Field getFieldID(java.lang.Class,java.lang.String,java.lang.String,boolean)
+com.unity3d.player.UnityPermissions$ModalWaitForPermissionResponse: void waitForResponse()
+com.unity3d.player.UnityPlayer: android.view.View getView()
+com.unity3d.player.n: n(com.unity3d.player.s)
+com.unity3d.player.UnityPlayer: void pauseUnity()
+com.unity3d.player.V: void c()
+com.unity3d.player.UnityPlayer$x: void run()
+com.unity3d.player.ReflectionHelper: float a(java.lang.Class,java.lang.Class)
+com.unity3d.player.MultiWindowSupport: boolean isMultiWindowModeChangedToTrue(android.app.Activity)
+com.unity3d.player.I: I(com.unity3d.player.J)
+com.unity3d.player.UnityPlayer$l: void a()
+com.unity3d.player.s: int a(android.content.Context)
+com.unity3d.player.UnityPlayer: void nativeSetInputArea(int,int,int,int)
+com.unity3d.player.a: boolean onTouchEvent(android.view.MotionEvent)
+com.unity3d.player.i: int a(java.lang.Throwable)
+org.fmod.FMODAudioDevice: void stopAudioRecord()
+com.unity3d.player.UnityPlayer: java.lang.String logLoadLibMainError(java.lang.String,java.lang.String)
+bitter.jnibridge.JNIBridge: java.lang.Object newInterfaceProxy(long,java.lang.Class[])
+com.unity3d.player.UnityPermissions$ModalWaitForPermissionResponse: void onPermissionGranted(java.lang.String)
+com.unity3d.player.N: void doCleanUp()
+com.unity3d.player.UnityPlayer: void setSelection(int,int)
+com.unity3d.player.UnityPlayerActivity: void onUnityPlayerUnloaded()
+com.unity3d.player.ReflectionHelper$c: void run()
+com.unity3d.player.UnityPlayer: boolean nativeRender()
+com.unity3d.player.m: m(com.unity3d.player.s)
+com.unity3d.player.IUnityPlayerLifecycleEvents: void onUnityPlayerQuitted()
+com.unity3d.player.UnityPlayer: void setSoftInputStr(java.lang.String)
+com.unity3d.player.UnityPlayer: void nativeResume()
+com.unity3d.player.HFPStatus: void a()
+com.unity3d.player.IPermissionRequestCallbacks: void onPermissionDeniedAndDontAskAgain(java.lang.String)
+com.google.androidgamesdk.SwappyDisplayManager: void onDisplayRemoved(int)
+com.unity.androidnotifications.UnityNotificationManager: void cancelAllNotifications()
+com.unity3d.player.UnityPlayer: java.lang.String getLaunchURL()
+com.unity3d.player.UnityPlayer: void nativeUnitySendMessage(java.lang.String,java.lang.String,byte[])
+com.unity3d.player.UnityPlayer: boolean initializeGoogleAr()
+com.unity3d.player.UnityPlayer: void nativeRestartActivityIndicator()
+com.unity3d.player.UnityPlayer: int getNetworkConnectivity()
+com.unity3d.player.H: boolean a()
+com.unity.androidnotifications.UnityNotificationManager: android.app.Notification$Builder createNotificationBuilder(java.lang.String)
+com.unity3d.player.N: void surfaceChanged(android.view.SurfaceHolder,int,int,int)
+com.unity3d.player.Camera2Wrapper: boolean initializeCamera2(int,int,int,int,int,android.view.Surface)
+org.fmod.FMODAudioDevice: int fmodGetInfo(int)
+bitter.jnibridge.JNIBridge$a: JNIBridge$a(long)
+com.unity3d.player.UnityPlayer: void executeGLThreadJobs()
+com.unity3d.player.I: void surfaceCreated(android.view.SurfaceHolder)
+com.unity3d.player.s: void e()
+com.unity3d.player.s: java.lang.String[] b(android.content.Context)
+com.unity.androidnotifications.UnityNotificationManager: void registerNotificationChannelGroup(java.lang.String,java.lang.String,java.lang.String)
+com.unity3d.player.O: void run()
+com.unity3d.player.F: F(com.unity3d.player.G,android.os.Handler,com.unity3d.player.E)
+com.unity3d.player.UnityPlayer: void destroy()
+com.unity3d.player.UnityPlayer$x: UnityPlayer$x(com.unity3d.player.UnityPlayer)
+com.unity3d.player.y: y(com.unity3d.player.C)
+com.unity3d.player.UnityPlayer: void requestUserAuthorization(java.lang.String)
+com.unity3d.player.UnityPlayer$a: UnityPlayer$a(com.unity3d.player.UnityPlayer)
+com.unity3d.player.Camera2Wrapper: void initCamera2Jni()
+com.unity3d.player.D$a: D$a(java.lang.String,int)
+com.unity3d.player.V: V(com.unity3d.player.UnityPlayer)
+com.unity3d.player.Camera2Wrapper: void pauseCamera2()
+com.unity3d.player.w: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+com.unity3d.player.N: N(android.content.Context,java.lang.String,int,int,int,boolean,long,long,com.unity3d.player.L)
+com.unity3d.player.n: void onConfigured(android.hardware.camera2.CameraCaptureSession)
+com.unity3d.player.w: void onActivityResumed(android.app.Activity)
+com.unity3d.player.UnityPlayer$z: UnityPlayer$z(java.lang.String,int)
+com.unity3d.player.HFPStatus: boolean getHFPStat()
+com.unity3d.player.UnityPlayer: void unloadNative()
+com.unity3d.player.UnityPlayer$f: UnityPlayer$f(com.unity3d.player.UnityPlayer,boolean)
+com.unity3d.player.UnityPlayer$s: UnityPlayer$s(com.unity3d.player.UnityPlayer)
+com.unity3d.player.UnityPlayer: void addPhoneCallListener()
+com.unity3d.player.T: T(com.unity3d.player.V)
+com.unity3d.player.UnityPlayer$c: void run()
+com.unity3d.player.b: void run()
+com.unity3d.player.s: android.graphics.Rect b()
+com.unity3d.player.UnityPlayer: boolean displayChanged(int,android.view.Surface)
+com.unity3d.player.UnityPlayer: java.lang.String GetGlViewContentDescription(android.content.Context)
+com.unity3d.player.UnityPlayer$c: UnityPlayer$c(com.unity3d.player.UnityPlayer)
+com.unity3d.player.UnityPlayer: void nativeSetInputString(java.lang.String)
+com.unity3d.player.UnityPermissions: boolean hasUserAuthorizedPermission(android.app.Activity,java.lang.String)
+com.unity3d.player.H: void a(java.lang.String)
+com.unity3d.player.R$id: R$id()
+com.unity3d.player.Camera2Wrapper: void nativeFrameReady(java.lang.Object,java.lang.Object,java.lang.Object,int,int,int)
+com.unity3d.player.UnityPlayer$u: UnityPlayer$u(com.unity3d.player.UnityPlayer)
+com.unity3d.player.s: int c(android.content.Context,int)
+com.unity.androidnotifications.UnityNotificationManager: void cancelPendingNotification(int)
+com.unity3d.player.o: o(com.unity3d.player.s)
+com.unity3d.player.N: boolean canSeekForward()
+com.unity3d.player.UnityPlayer: void setHideInputField(boolean)
+com.unity3d.player.NativeLoader: boolean load(java.lang.String)
+com.unity3d.player.UnityPlayer: void lowMemory()
+com.unity3d.player.ReflectionHelper$b: int hashCode()
+com.unity3d.player.UnityPlayer: void nativeSendSurfaceChangedEvent()
+com.unity3d.player.Camera2Wrapper: int getCamera2SensorOrientation(int)
+com.unity3d.player.C: void onClick(android.view.View)
+com.unity3d.player.NetworkConnectivityNougat: int b()
+com.unity3d.player.F: boolean deliverSelfNotifications()
+com.unity3d.player.PlayAssetDeliveryUnityWrapper: com.unity3d.player.t a(android.content.Context)
+com.unity3d.player.IPermissionRequestCallbacks: void onPermissionDenied(java.lang.String)
+com.unity3d.player.J: boolean c()
+com.unity3d.player.w: void onActivityStarted(android.app.Activity)
+com.unity3d.player.o: void onDisconnected(android.hardware.camera2.CameraDevice)
+com.unity3d.player.UnityPlayerActivity: void onTrimMemory(int)
+com.unity3d.player.UnityPlayerActivity: void onNewIntent(android.content.Intent)
+com.unity3d.player.UnityCoreAssetPacksStatusCallbacks: void onStatusResult(long,java.lang.String[],int[],int[])
+com.unity3d.player.P: void a(int)
+org.fmod.FMODAudioDevice: int fmodProcess(java.nio.ByteBuffer)
+com.unity3d.player.s: void f()
+com.unity3d.player.UnityPlayer$b$a: void onCancel(android.content.DialogInterface)
+com.unity3d.player.Q: void run()
+com.unity3d.player.UnityPermissions$ModalWaitForPermissionResponse: void onPermissionDeniedAndDontAskAgain(java.lang.String)
+com.unity3d.player.C: void a(java.lang.String)
+com.unity3d.player.UnityPlayer: boolean showVideoPlayer(java.lang.String,int,int,int,boolean,int,int)
+com.unity3d.player.J: java.lang.String a(android.content.Context)

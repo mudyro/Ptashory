@@ -1,0 +1,34 @@
+{
+    "name": "PauseGame",
+    "maps": [
+        {
+            "name": "PauseGame",
+            "id": "8ea0ddb3-c05d-466c-bf93-729ace61b782",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "8bd76779-358d-441e-912c-408dc4fac12e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3ae15ad2-3384-4de7-b3d0-866a6d20410c",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

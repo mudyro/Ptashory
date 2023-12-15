@@ -1,0 +1,45 @@
+{
+    "name": "ChickenInput",
+    "maps": [
+        {
+            "name": "Sparrow",
+            "id": "de419be5-a480-4fcc-99d7-928abbf7660b",
+            "actions": [
+                {
+                    "name": "FollowTheTouchscreenOrMouse",
+                    "type": "Button",
+                    "id": "4da58dcd-a3ab-4b1f-998e-4a0b56fcf934",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "17154212-d8d3-44cc-a3da-d099111a1641",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FollowTheTouchscreenOrMouse",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "71803aef-4958-4089-90c2-44512fb85a52",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FollowTheTouchscreenOrMouse",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
